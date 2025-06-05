@@ -1,0 +1,31 @@
+---
+title: "Leah Christiani"
+output: html_document
+---
+
+<img src="leah_photo.png" alt="Photo of Leah Christiani" width="200" style="float: right; margin-left: 20px;"/>
+
+## About Me
+
+I am an Associate Professor of Political Science (pre-tenure) at [Hunter College, CUNY](https://www.hunter.cuny.edu/){target="_blank"}. Prior to this, I was an Assistant Professor at the University of Tennessee, Knoxville.
+
+I earned my Ph.D. (2020) and M.A. (2017) in Political Science from the University of North Carolina at Chapel Hill, focusing on American politics and political methodology. 
+
+I study race, ethnicity, and politics, public opinion, and policing. For more information about my research and teaching interests, please click on the links above. You can also find my profile on [Women Also Know Stuff](https://www.womenalsoknowstuff.com/){target="_blank"} at [this link](https://womenalsoknowstuff.com/profile/4501){target="_blank"}. Thanks for visiting!
+
+
+---
+
+## Curriculum Vitae
+
+You can download my CV here:
+
+[**Download CV (PDF)**](Christiani_CV.pdf){target="_blank"}
+
+---
+
+## Contact
+
+📧 leahchristiani@gmail.com 
+
+📍 Department of Political Science, Hunter College, CUNY  
