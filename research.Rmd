@@ -1,0 +1,58 @@
+---
+title: "Leah Christiani"
+output: html_document
+---
+
+[Home](index.html) | [Research](research.html) | [Teaching](teaching.html)  | [CV](Christiani_CV.pdf)
+
+<center> <h1>Research</h1> </center>
+
+---
+
+My research centers on the politics of race, ethnicity, and identity in the U.S. context. I focus on the way that racism operates at the structural and individual level to shape attitudes, behavior, and political outcomes. Scroll down for more information about my work.
+
+---
+
+## Book
+### Destabilized: Why Americans Accept Negative Racial Appeals
+In recent years, the U.S. has witnessed a resurgence in Americans' tolerance for overt, hostile racial rhetoric from politicians. This runs counter to previous evidence suggesting that citizens reject racial appeals when they are explicit. *Destabilized* examines why this change has occurred. I propose and find that when white Americans feel that their dominance in the racial hierarchy is unstable, their prejudice activates, and they are more tolerant of negative, explicit racial appeals. Importantly, I find that this link exists across partisan subgroups --- for both Democrats and Republicans --- speaking broadly to the nature of whiteness as a racial identity rooted in the desire to maintain dominance. This book manuscript uses survey experiments, observational survey data, and analyses of political media to demonstrate this causal link. ***Full Draft Complete.***
+
+---
+
+## Peer-Reviewed Journal Articles
+
+* ["The racialization of the United States Supreme Court? Examining changes in public opinion toward SCOTUS over time"](https://link.springer.com/article/10.1007/s11109-025-10043-5){target="_blank"} (with Kelsey Shoub and Jamil Scott)
+
+* ["Pandering politics? Examining the effect of positive, explicit racial appeals on support for political candidates"](https://www.cambridge.org/core/journals/du-bois-review-social-science-research-on-race/article/pandering-politics/1756611CAB0AA1687DA50CB4C91F3607){target="_blank"} (with Jeremiah Muhammad)
+
+* ["Racial inequality and support for democracy"](https://journals.sagepub.com/eprint/U3DXVHNITD4TRVKD8JCG/full){target="_blank"} (with Nathan Kelly and Jana Morgan)
+
+* ["Racial inequality and attitudes toward redistributive policy in the United States"](https://link.springer.com/article/10.1007/s12552-024-09427-9){target="_blank"} (with Nathan Kelly and Jana Morgan)
+
+* ["The 'tough-on-crime' Left: Race, gender, and elections of law and order Democrats"](https://journals.sagepub.com/doi/10.1177/20531680241261765){target="_blank"} (with Isabel Laterzo-Tingley)
+
+* ["American dream versus American reality: How encountering information about structural racism can prompt support for race-based policies"](https://doi.org/10.1017/rep.2024.5){target="_blank"} (with Nathan Kelly and Jana Morgan)
+
+* ["Are you talking to me? How ideological and gender characteristics moderate the effect of legitimizing rhetoric on SCOTUS legitimacy"](https://www.cambridge.org/core/journals/law-and-social-inquiry/article/are-you-talking-to-me-how-ideological-and-gender-characteristics-moderate-the-effect-of-legitimizing-rhetoric-on-scotus-legitimacy/38E9F7144ACF1487040616A99211EF2){target="_blank"} (with Ryan Williams)
+
+* ["White privilege, white grievance, and the limitations of white antiracism"](https://doi.org/10.1080/21565503.2023.2224779){target="_blank"} (with Lucy Britt)
+
+* ["Context matters: The conditional effect of Black police chiefs on policing outcomes"](https://journals.sagepub.com/doi/10.1177/10780874221113216){target="_blank"} (with Kelsey Shoub)
+
+* ["When are explicit racial appeals accepted? Examining the role of racial status threat"](https://doi.org/10.1007/s11109-021-09688-9){target="_blank"} 
+
+* ["Can light contact with the police motivate political participation? Evidence from traffic stops"](https://www.doi.org/10.1017/rep.2022.18){target="_blank"} (with Kelsey Shoub)
+
+* ["Masks and racial stereotypes in a pandemic: The case for surgical masks"](https://www.cambridge.org/core/journals/journal-of-race-ethnicity-and-politics/article/abs/masks-and-racial-stereotypes-in-a-pandemic-the-case-for-surgical-masks/1ED8C8F18D20FB6AD9B68A1D72A80D50){target="_blank"} (with Christopher Clark, Steven Greene, Marc Hetherington, and Emily Wager)
+
+* ["At the intersection: Race, gender, and discretion in police traffic stop outcomes"](https://www.cambridge.org/core/journals/journal-of-race-ethnicity-and-politics/article/at-the-intersection-race-gender-and-discretion-in-police-traffic-stop-outcomes/2C7329D70147351D843E50B4C1A47CDE?utm_source=hootsuite&utm_medium=twitter&utm_campaign=REP_Nov20){target="_blank"} (with Frank Baumgartner, Derek Epp, Kevin Roach, and Kelsey Shoub)
+
+* ["Better for everyone: Black descriptive representation and police traffic stops"](https://doi.org/10.1080/21565503.2021.1892782){target="_blank"} (with Frank Baumgartner, Derek Epp, Kevin Roach, and Kelsey Shoub)
+
+* ["Intersectional stereotyping in policing: An analysis of traffic stop outcomes"](https://www.tandfonline.com/doi/abs/10.1080/21565503.2020.1748064){target="_blank"}
+
+* ["Fines, fees, forfeitures, and disparities: A link between municipal reliance on fines and racial disparities in policing"](https://onlinelibrary.wiley.com/doi/abs/10.1111/psj.12412){target="_blank"} (with Frank Baumgartner, Derek Epp, Kevin Roach, and Kelsey Shoub)
+
+* ["Race, place, and context: The persistence of race effects in traffic stop outcomes in the face of situational, demographic, and political controls"](https://www.cambridge.org/core/journals/journal-of-race-ethnicity-and-politics/article/race-place-and-context-the-persistence-of-race-effects-in-traffic-stop-outcomes-in-the-face-of-situational-demographic-and-political-controls/AC71BF3E864E9B7B3C919E18E052B4D1){target="_blank"} (with Frank Baumgartner, Derek Epp, Kevin Roach, and Kelsey Shoub)
+
+

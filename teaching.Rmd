@@ -1,0 +1,51 @@
+---
+title: "Leah Christiani"
+output: html_document
+---
+
+[Home](index.html) | [Research](research.html) | [Teaching](teaching.html)  | [CV](Christiani_CV.pdf)
+
+<center> <h1>Teaching</h1> </center>
+
+---
+
+## For Hunter Students
+
+### Internships
+If you would like me to sponsor an internship, first review the requirements [laid out here](Guidelines_Christiani.pdf){target="_blank"}. Then, send me an email: lc5734 [at] hunter [dot] cuny [dot] edu
+
+### Honors Theses
+If you would like me to advise your honors these, review the requirements [laid out here](HonorsThesis_Expectations.pdf){target="_blank"}. Then, send me an email: lc5734 [at] hunter [dot] cuny [dot] edu
+
+---
+
+## Classes Taught 
+
+#### Hunter College, CUNY
+
+Public Opinion and Political Participation 
+
+Race, Policing, and Criminal Justice
+
+Gender and Politics
+
+American Politics: A Historical Introduction
+
+#### Previous Institutions
+
+Public Opinion and Political Socialization (graduate level)
+
+Research Methods
+
+Race, Ethnicity, and American Politics
+
+Gender and Politics
+
+Quantitative Research Methods
+
+Probability and Statistics (graduate level, Teaching Assistant)
+
+Intersectionality: Race, Gender, Sexuality and Social Justice (Teaching Assistant)
+
+Introduction to American Politics (Teaching Assistant)
+
