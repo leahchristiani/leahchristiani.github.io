@@ -1,6 +1,8 @@
 ---
 title: "Leah Christiani"
-output: html_document
+output: 
+  html_document:
+  theme: journal
 ---
 
 <img src="leah_photo.png" alt="Photo of Leah Christiani" width="200" style="float: right; margin-left: 20px;"/>
