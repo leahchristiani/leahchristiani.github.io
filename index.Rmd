@@ -3,7 +3,7 @@ title: "Leah Christiani"
 output: html_document
 ---
 
-[Home](index.html) | [Research](research.html) | [Teaching](teaching.html)  | [CV](Christiani_CV.pdf)
+[Home](index.html) | [Research](research.html) | [Teaching](teaching.html)  | [CV](Christiani_CV.pdf){target="_blank"}
 
 <img src="leah_photo.png" alt="Photo of Leah Christiani" width="200" style="float: right; margin-left: 20px;"/>
 
@@ -28,6 +28,8 @@ You can download my CV here:
 
 ## Contact
 
-📧 leahchristiani@gmail.com 
+📧 leahchristianiphd@gmail.com 
 
 📍 Department of Political Science, Hunter College, CUNY  
+
+<br>

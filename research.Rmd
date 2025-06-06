@@ -3,7 +3,7 @@ title: "Leah Christiani"
 output: html_document
 ---
 
-[Home](index.html) | [Research](research.html) | [Teaching](teaching.html)  | [CV](Christiani_CV.pdf)
+[Home](index.html) | [Research](research.html) | [Teaching](teaching.html)  | [CV](Christiani_CV.pdf){target="_blank"}
 
 <center> <h1>Research</h1> </center>
 
@@ -27,13 +27,13 @@ In recent years, the U.S. has witnessed a resurgence in Americans' tolerance for
 
 * ["Racial inequality and support for democracy"](https://journals.sagepub.com/eprint/U3DXVHNITD4TRVKD8JCG/full){target="_blank"} (with Nathan Kelly and Jana Morgan)
 
-* ["Racial inequality and attitudes toward redistributive policy in the United States"](https://link.springer.com/article/10.1007/s12552-024-09427-9){target="_blank"} (with Nathan Kelly and Jana Morgan)
+* ["The structural origins of racial inequality and attitudes toward redistribution"](https://link.springer.com/article/10.1007/s12552-024-09427-9){target="_blank"} (with Nathan Kelly and Jana Morgan)
 
 * ["The 'tough-on-crime' Left: Race, gender, and elections of law and order Democrats"](https://journals.sagepub.com/doi/10.1177/20531680241261765){target="_blank"} (with Isabel Laterzo-Tingley)
 
 * ["American dream versus American reality: How encountering information about structural racism can prompt support for race-based policies"](https://doi.org/10.1017/rep.2024.5){target="_blank"} (with Nathan Kelly and Jana Morgan)
 
-* ["Are you talking to me? How ideological and gender characteristics moderate the effect of legitimizing rhetoric on SCOTUS legitimacy"](https://www.cambridge.org/core/journals/law-and-social-inquiry/article/are-you-talking-to-me-how-ideological-and-gender-characteristics-moderate-the-effect-of-legitimizing-rhetoric-on-scotus-legitimacy/38E9F7144ACF1487040616A99211EF2){target="_blank"} (with Ryan Williams)
+* ["Are you talking to me? How ideological and gender characteristics moderate the effect of legitimizing rhetoric on SCOTUS legitimacy"](https://www.cambridge.org/core/journals/law-and-social-inquiry/article/are-you-talking-to-me-how-ideological-and-gender-characteristics-moderate-the-effect-of-legitimizing-rhetoric-on-scotus-legitimacy/38E9F7144ACF1487040616A99211EF24){target="_blank"} (with Ryan Williams)
 
 * ["White privilege, white grievance, and the limitations of white antiracism"](https://doi.org/10.1080/21565503.2023.2224779){target="_blank"} (with Lucy Britt)
 
@@ -55,4 +55,4 @@ In recent years, the U.S. has witnessed a resurgence in Americans' tolerance for
 
 * ["Race, place, and context: The persistence of race effects in traffic stop outcomes in the face of situational, demographic, and political controls"](https://www.cambridge.org/core/journals/journal-of-race-ethnicity-and-politics/article/race-place-and-context-the-persistence-of-race-effects-in-traffic-stop-outcomes-in-the-face-of-situational-demographic-and-political-controls/AC71BF3E864E9B7B3C919E18E052B4D1){target="_blank"} (with Frank Baumgartner, Derek Epp, Kevin Roach, and Kelsey Shoub)
 
-
+<br>

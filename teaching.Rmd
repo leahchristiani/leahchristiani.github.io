@@ -3,7 +3,7 @@ title: "Leah Christiani"
 output: html_document
 ---
 
-[Home](index.html) | [Research](research.html) | [Teaching](teaching.html)  | [CV](Christiani_CV.pdf)
+[Home](index.html) | [Research](research.html) | [Teaching](teaching.html)  | [CV](Christiani_CV.pdf){target="_blank"}
 
 <center> <h1>Teaching</h1> </center>
 
@@ -49,3 +49,4 @@ Intersectionality: Race, Gender, Sexuality and Social Justice (Teaching Assistan
 
 Introduction to American Politics (Teaching Assistant)
 
+<br>
