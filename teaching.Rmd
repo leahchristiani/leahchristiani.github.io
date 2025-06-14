@@ -3,7 +3,7 @@ title: "Leah Christiani"
 output: html_document
 ---
 
-[Home](index.html) | [Research](research.html) | [Teaching](teaching.html)  | [CV](Christiani_CV.pdf){target="_blank"}
+[Home](index.html) | [Research](research.html) | [Teaching](teaching.html)  | [CV](Christiani_CV.pdf){target="_blank"} 
 
 <center> <h1>Teaching</h1> </center>
 
@@ -15,13 +15,13 @@ output: html_document
 If you would like me to sponsor an internship, first review the requirements [laid out here](Guidelines_Christiani.pdf){target="_blank"}. Then, send me an email: lc5734 [at] hunter [dot] cuny [dot] edu
 
 ### Honors Theses
-If you would like me to advise your honors these, review the requirements [laid out here](HonorsThesis_Expectations.pdf){target="_blank"}. Then, send me an email: lc5734 [at] hunter [dot] cuny [dot] edu
+If you would like me to advise your honors thesis, review the requirements [laid out here](HonorsThesis_Expectations.pdf){target="_blank"}. Then, send me an email: lc5734 [at] hunter [dot] cuny [dot] edu
 
 ---
 
 ## Classes Taught 
 
-#### Hunter College, CUNY
+### Hunter College, CUNY
 
 Public Opinion and Political Participation 
 
@@ -31,7 +31,7 @@ Gender and Politics
 
 American Politics: A Historical Introduction
 
-#### Previous Institutions
+### Previous Institutions
 
 Public Opinion and Political Socialization (graduate level)
 
