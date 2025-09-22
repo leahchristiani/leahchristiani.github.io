@@ -1,6 +1,9 @@
 ---
 title: "Leah Christiani"
-output: html_document
+output:
+  html_document:
+    includes:
+      in_header: favicon.html
 ---
 
 [Home](index.html) | [Research](research.html) | [Teaching](teaching.html)  | [CV](Christiani_CV.pdf){target="_blank"}
