@@ -8,7 +8,7 @@ output:
 
 [Home](index.html) | [Research](research.html) | [Teaching](teaching.html)  | [CV](Christiani_CV.pdf){target="_blank"}
 
-<img src="leah_photo.png" alt="Photo of Leah Christiani" width="200" style="float: right; margin-left: 20px;"/>
+<img src="christiani2026.png" alt="Photo of Leah Christiani" width="200" style="float: right; margin-left: 20px;"/>
 
 ## About Me
 
