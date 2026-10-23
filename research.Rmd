@@ -16,7 +16,7 @@ My research centers on the politics of race, ethnicity, and identity in the U.S.
 <img src="book_cover.png" alt="Photo of Book Cover" width="200" style="float: right; margin-right: 20px;"/>
 
 ### Destabilized: Why White Americans Accept Racist Political Rhetoric
-[*Cambridge University Press*, forthcoming August 2026](https://www.cambridge.org/core/books/destabilized/311DDBCB3532527BCD30EDCAA8D5CF01){target="_blank"}
+[*Cambridge University Press*, 2026](https://www.cambridge.org/us/universitypress/subjects/politics-international-relations/american-government-politics-and-policy/destabilized-why-white-americans-accept-racist-political-rhetoric?format=PB&isbn=9781009837392){target="_blank"}
 
 In recent years, the United States has witnessed a resurgence in mainstream acceptance of racist rhetoric from politicians. This increased tolerance arises despite previous evidence suggesting that white Americans
 reject racist appeals when they are explicit. *Destabilized* examines this shift and points to a perception of threat to white dominance as the root cause. 
